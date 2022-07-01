@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.info{
+    background-color: blueviolet;
+}
+.Certificates {
+    height: 300px;
+    background-color: rgb(241, 228, 106);
+    padding: 20% 30% 20% 30%;
+}
+.col-sm:nth-child(1) {
+    height: 300px;
+    justify-content: center;
+    padding: 5%;
+    border: solid 2px white ;
+}
+.col-sm:nth-child(2) {
+    height: 300px;
+    border: solid 2px white ;
+    display: block;
+    padding: 3% 5% 3% 5%;
+    overflow: hidden;
+}
+
+.dummyimg{
+    width: 150px;
+}
+
+.Testimonials{
+    height: 300px;
+    background-color: rgb(46, 230, 138);
+    padding: 10% 5% 0% 5%;
+}
